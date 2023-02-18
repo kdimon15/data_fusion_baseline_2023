@@ -1,2 +1,1 @@
-# data_fusion_baseline_2023
-Baseline for Data Fusion Contest 2023 "Attack"
+Бейзлайн для соревнования Data Fusion 2023 направление Атака
